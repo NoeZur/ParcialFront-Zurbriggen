@@ -1,0 +1,11 @@
+.formulario{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    border: 4px solid blueviolet;
+    padding: 8px;
+}
+.formulario label{
+    padding: 8px;
+}
